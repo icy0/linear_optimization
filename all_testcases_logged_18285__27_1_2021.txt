@@ -1,0 +1,135 @@
+EXHAUSTIVE runs LP Moebelfabrik (1.1):
+This was a LP with 3 conditions and 4 variables. Best value is 1827.0 with corresponding solution [39. 48. 30.] and corresponding base [1 3 4].
+duration EXHAUSTIVE: 4992300 nanoseconds, or 4.9923 milliseconds
+
+
+SV runs LP Moebelfabrik (1.1):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 3 conditions and 4 variables. Best value is 1827.0 with corresponding solution [39. 48. 30.] and corresponding base [1 3 4].
+duration SV: 1000200 nanoseconds, or 1.0002 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP Oelraffinerie (1.3):
+This was a LP with 9 conditions and 12 variables. Best value is 138625.60000000003 with corresponding solution [3485.80645161 5050.         7100.          829.19354839    0.
+  514.19354839 3470.80645161 1465.         6015.        ] and corresponding base [ 1  2  3  4  5  9 12 13 14].
+duration EXHAUSTIVE: 49921850500 nanoseconds, or 49921.8505 milliseconds
+
+
+SV runs LP Oelraffinerie (1.3):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 9 conditions and 12 variables. Best value is 138625.60000000006 with corresponding solution [2.30750000e+03 6.01500000e+03 4.00000000e+03 4.13406683e-14
+ 1.99250000e+03 1.46500000e+03 5.05000000e+03 5.10750000e+03
+ 1.99250000e+03] and corresponding base [ 4 14  1  5 11 13  2  3 12].
+duration SV: 5001300 nanoseconds, or 5.0013 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (1.4):
+This was a LP with 1 conditions and 2 variables. Best value is 0 with corresponding solution [0.] and corresponding base [0].
+duration EXHAUSTIVE: 0 nanoseconds, or 0.0 milliseconds
+
+
+SV runs LP (1.4):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 1 conditions and 2 variables. Best value is 0.0 with corresponding solution [0.] and corresponding base [1].
+duration SV: 0 nanoseconds, or 0.0 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (1.7):
+This was a LP with 3 conditions and 3 variables. Best value is 9.0 with corresponding solution [6. 1. 0.] and corresponding base [1 2 4].
+duration EXHAUSTIVE: 2388100 nanoseconds, or 2.3881 milliseconds
+
+
+SV runs LP (1.7):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 3 conditions and 3 variables. Best value is 9.0 with corresponding solution [0. 1. 6.] and corresponding base [5 2 1].
+duration SV: 1008600 nanoseconds, or 1.0086 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (2.11):
+This was a LP with 3 conditions and 3 variables. Best value is 10.5 with corresponding solution [2.5 1.5 0.5] and corresponding base [1 2 6].
+duration EXHAUSTIVE: 2327900 nanoseconds, or 2.3279 milliseconds
+
+
+SV runs LP (2.11):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 3 conditions and 3 variables. Best value is 10.5 with corresponding solution [1.5 2.5 0.5] and corresponding base [2 1 6].
+duration SV: 1008100 nanoseconds, or 1.0081 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (3.3):
+This was a LP with 3 conditions and 3 variables. Best value is 13.0 with corresponding solution [2. 1. 1.] and corresponding base [1 3 5].
+duration EXHAUSTIVE: 2886100 nanoseconds, or 2.8861 milliseconds
+
+
+SV runs LP (3.3):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 3 conditions and 3 variables. Best value is 13.0 with corresponding solution [2. 1. 1.] and corresponding base [1 5 3].
+duration SV: 0 nanoseconds, or 0.0 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (3.4):
+This was a LP with 4 conditions and 3 variables. Best value is 10.0 with corresponding solution [1.10344828 0.27586207 1.03448276 0.03448276] and corresponding base [1 2 3 4].
+duration EXHAUSTIVE: 4061800 nanoseconds, or 4.0618 milliseconds
+
+
+SV runs LP (3.4):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 4 conditions and 3 variables. Best value is 10.0 with corresponding solution [0.03448276 0.27586207 1.03448276 1.10344828] and corresponding base [4 2 3 1].
+duration SV: 0 nanoseconds, or 0.0 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (3.17):
+This was a LP with 2 conditions and 4 variables. Best value is 8.0 with corresponding solution [1. 2.] and corresponding base [1 2].
+duration EXHAUSTIVE: 1969800 nanoseconds, or 1.9698 milliseconds
+
+
+SV runs LP (3.17):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 2 conditions and 4 variables. Best value is 8.0 with corresponding solution [2. 1.] and corresponding base [2 1].
+duration SV: 1008300 nanoseconds, or 1.0083 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (3.20):
+This was a LP with 3 conditions and 3 variables. Best value is 0.44444444444444486 with corresponding solution [5.22222222 5.33333333 0.55555556] and corresponding base [1 2 3].
+duration EXHAUSTIVE: 2991800 nanoseconds, or 2.9918 milliseconds
+
+
+SV runs LP (3.20):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+SIMPLEX ended: This LP is unrestricted in its range of optimal solutions
+duration SV: 1009500 nanoseconds, or 1.0095 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (3.24):
+EXHAUSTIVE ended: This LP is invalid, because there is not a single valid solution.
+duration EXHAUSTIVE: 1990900 nanoseconds, or 1.9909 milliseconds
+
+
+SV runs LP (3.24):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+INIT ended: x_0 did not become a NBVar in its optimal solution, therefore this LP is invalid.
+duration SV: 1009300 nanoseconds, or 1.0093 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (4.1):
+This was a LP with 3 conditions and 4 variables. Best value is 29.0 with corresponding solution [14.  5.  1.] and corresponding base [2 4 6].
+duration EXHAUSTIVE: 3991900 nanoseconds, or 3.9919 milliseconds
+
+
+SV runs LP (4.1):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 3 conditions and 4 variables. Best value is 29.0 with corresponding solution [ 5.  1. 14.] and corresponding base [4 6 2].
+duration SV: 0 nanoseconds, or 0.0 milliseconds
+
+========================================================================================
+EXHAUSTIVE runs LP (4.13):
+This was a LP with 6 conditions and 6 variables. Best value is 17.000000000000007 with corresponding solution [2.5 3.5 0.5 0.5 0.5 1. ] and corresponding base [ 3  4  6  9 10 12].
+duration EXHAUSTIVE: 145023300 nanoseconds, or 145.0233 milliseconds
+
+
+SV runs LP (4.13):
+WARNING: if the LP is restricted and valid, the resulting base and the solution might not be sorted ascendingly. the "base index to solution component"-relation though should be correct.
+This was a LP with 6 conditions and 6 variables. Best value is 17.0 with corresponding solution [0.5 2.5 0.5 3.5 0.5 1. ] and corresponding base [ 6  3 10  4  9 12].
+duration SV: 2009600 nanoseconds, or 2.0096 milliseconds
+
+========================================================================================
